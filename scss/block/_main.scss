@@ -1,0 +1,125 @@
+.section{
+    width: 1110px;
+    height: 520px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+.section_text{
+    width: 367px;
+    height: 48px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #333D4B;
+}
+.section_p{
+    width: 550px;
+    height: 260px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #333D4B;
+    text-align: left;
+    margin-top: 32px;
+}
+.section1{
+    position: relative;
+    background: #2C343E;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:358px auto 0;
+}
+.section1_menu{
+    width: 540px;
+    height: 210px;
+    margin-left: 85px;
+    margin-top: 88px;
+    margin-bottom: 176px;
+    position: relative;
+}
+.section1_menu h2{
+    width: 517px;
+    height: 48px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FEFCF7;
+    text-align: center;
+}
+.section1_menu p{
+    width: 540px;
+    height: 130px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+    text-align: left;
+    margin-top: 32px;
+    opacity: 0.8;
+}
+.section1_atim img{
+    bottom: 100px;
+    right:50px ;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.section3_menu{
+    width: 1045px;
+    height: 366px;
+    margin-left: 70px;
+    margin-top: 168px;
+}
+.menu_h2{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #83888F;
+}
+.menu2{
+    width: 1045px;
+    height:262px;
+    margin: 0 auto;
+}
+.menu1_ul{
+    margin-top: 72px;
+    display: flex;
+    align-items: center; 
+}
+.menu1_li{
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-type: none;
+    
+}
+.menu1_li h2{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #333D4B;
+    margin-top: 45px;
+}
+.li_menu{
+    margin-top: 24px;
+}
+.li_menu a {
+    display: block;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+}
