@@ -950,13 +950,17 @@ p {
             align-items: center;
   }
   .menu1_li {
+    width: 327px;
+    height: 262px;
     text-align: center;
-    margin-left: -70px;
+    margin-left: -180px;
     list-style-type: none;
     margin-top: 72px;
   }
   .class {
-    margin-left: -60px;
+    width: 327px;
+    height: 262px;
+    margin-left: -180px;
   }
   .footer {
     width: 375px;
